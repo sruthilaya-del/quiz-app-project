@@ -1,2 +1,25 @@
-# quiz-app-project
-The Quiz App Project is a web-based application that allows users to create, take, and manage quizzes easily. It supports multiple question types, provides instant feedback, and tracks scores. Designed with a clean interface, it helps students and educators practice, learn, and test knowledge interactively and efficiently.
+# Quiz App 🎯
+
+A simple quiz application built using HTML, CSS, and JavaScript.
+
+## Features
+- Multiple choice questions
+- Score calculation
+- Timer for each question
+- Final result screen
+- Restart quiz option
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## Preview
+Add screenshots here
+
+## Live Demo
+(Optional) Deploy using Netlify or GitHub Pages
